@@ -1,3 +1,2 @@
-HOLA Q TAL 3 - Pablo
-Hola, esto fixea el bug
-Esto es el fix del segundo bug
+HOLA Q TAL 3 - Pablo x 2 - Tocado en prueba+pa
+Agrego un comentario
